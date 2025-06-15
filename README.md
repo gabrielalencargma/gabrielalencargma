@@ -6,8 +6,8 @@
   <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielalencargma&theme=vue-dark&show_icons=true">
 </div>
 
-### Repositórios de estudo
-Está estudando modelagem e desenvolvimentos de banco de dados, circuitos arduino ou lógica de programação? Conheça os meus repositórios de estudo, nos quais armazeno o percurso do meu aprendizado para que outras pessoas também possam utilizar como auxílio em seus estudos.
+### Meus Projetos
+Abaixo você pode visualizar os principais projetos que fiz até momento:
 
 <div align="center">
   <a href="https://github.com/gabrielalencargma/Estudo-DB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielalencargma&repo=Estudo-DB&theme=vue-dark&show_icons=true"></a>
