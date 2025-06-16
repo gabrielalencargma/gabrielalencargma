@@ -39,7 +39,7 @@ Repositórios com foco em desenvolvimento de jogos, estudo de linguagens/tecnolo
 
 ## 📬 Contato
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabrielalencargma/">
+  <a href="https://www.linkedin.com/in/gabrielmatosale/">
     <img height="35px" src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black">
   </a>
   <a href="mailto:gabrielalencar.gma@gmail.com">
